@@ -21,7 +21,7 @@
 | Hosting             | Cloudflare Pages |
 | UI Framework        | React            |
 | UI Style            | Tailwind CSS     |
-| App Framework       | Astro            |
+| Web Framework       | Astro            |
 | Programing Language | TypeScript       |
 | IaC                 | Terraform        |
 
@@ -36,7 +36,7 @@ NFCカードをスマートフォンに接触させることで、自身のビ�
 | Hosting             | Cloudflare Pages |
 | UI Framework        | React            |
 | UI Style            | Tailwind CSS     |
-| App Framework       | Vite             |
+| Web Framework       | Vite             |
 | Programing Language | TypeScript       |
 | IaC                 | Terraform        |
 
