@@ -9,10 +9,11 @@
 
 ### Latest Contents
 
+* [Go ginのLoggerをFunctional Option Patternとしてslogで設定する](https://mountain-forest-blog.pages.dev/blog/gin-logger-slog-with-functional-option-pattern/)
+* [ZodとConformを使ってRemixでバリデーションを実施する](https://mountain-forest-blog.pages.dev/blog/validate-with-zod-conform-on-remix/)
 * [TypeScriptのDIライブラリとしてtsyringeを使ってみました](https://mountain-forest-blog.pages.dev/blog/use-tsyringe-for-dependency-injection/)
 * [working-directoryを指定したjobでArtifactをアップロードしたらハマってしまいました](https://mountain-forest-blog.pages.dev/blog/artifact-between-each-jobs-github-actions/)
 * [このサイトの画像フォーマットの最適化とDynamic Import](https://mountain-forest-blog.pages.dev/blog/optimize-image-format-in-astro/)
-* [Astro上でReactによるインタラクティブなコンポーネント：Link Cardを呼び出す](https://mountain-forest-blog.pages.dev/blog/call-interactive-react-component-on-astro/)
 
 ### Tech Stack / GitHub Repository：[mountain-blog-astro](https://github.com/9yamamo9/mountain-blog-astro)
 
